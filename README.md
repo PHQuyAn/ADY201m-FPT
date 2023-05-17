@@ -1,4 +1,4 @@
-# ADY201m - AI, DS with Python & SQL
+# ADY201m - AI, DS with Python & SQL 
 Save all lab, assignment and my answers
 
 Link course:
@@ -21,4 +21,4 @@ Python for Data Science, AI & Development:
 Python Project for Data Science:
                           https://coursera.org/share/13386a687475eb49a3e33e4a0cd1e409
 
-I'm so grateful for all the knowledge and guidance Lecturer Tăng Quang Hiếu has provided me in ADY201m. Thank you, sir!
+I'm so grateful for all the knowledge and guidance Lecturer Tăng Quang Hiếu has provided me in ADY201m. Thank you, sir! 🌟👨‍🏫
